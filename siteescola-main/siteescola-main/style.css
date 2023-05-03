@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+header {background-color: rgb(3, 128, 150);
+color: rgb(0, 0, 0);
+display: flex;
+justify-content: space-around;
+padding: 24px 0;}
+.imagens.cabecalho {width: 55%;}
+li{
+    display: inline-block;
+    margin: 0 90px;
+    padding: 100px 0;
+font-size: 20px;}
+
+h1
+{
+    margin: 0 20px;
+    padding: 0 30px;
+    font-size: 30px;
+}
+
+.escola-imagem{
+    width:58%;
+}
+.escola{
+    background-image: linear-gradient(rgb(1, 124, 124), rgb(190, 102, 190));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;}
+
+.aluno-um{
+    width: 20%;
+}
+.estudante-titulo {
+    text-align: center;
+    padding: 70px 0;
+    font-size: 30px;
+}
+.estudante-icone {
+    width: 50px;
+}
+
+.estudante-div{
+    text-align: center;
+}
